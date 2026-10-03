@@ -3,7 +3,7 @@
 | Nom complet | Identifiant GitHub |
 |---|---|
 | Amhaouch Maha | mah0504 |
-| Wahbi Souha Sherihane | sheryhane |
+| Wahbi Souha Sheryhane | sheryhane |
 
 - Lien vers le répertoire GitHub :
 - Lien vers le README du répertoire :
